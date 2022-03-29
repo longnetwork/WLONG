@@ -466,11 +466,11 @@
 			]
 		},
 		"wLONG/wLONG.sol": {
-			"keccak256": "0x97fd7d59d1585a7e52337dc4c085ce6fb9ea7c8c2bb1a934740e399c01c7fbfd",
+			"keccak256": "0xe30d6416ff5a7246c0af0c89c7e04539392cf1f5fdb00e3598552222c602251a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4d23a1319a4d7ca8d97e73536bd9971ea9f609a7786dcdf5e6d1e7465171fc68",
-				"dweb:/ipfs/QmTnbPsoukWNEdGwuuwGbQcFq2AANrwPQ75XgtXK7B1V2y"
+				"bzz-raw://57feb3f9f24d585e2839bae37392b5023582f7c87d0d05d537b22fb2ff7cdd4d",
+				"dweb:/ipfs/QmSnWikizJDYPvEjMYxCU9NS4KMLueu4TuSwzqRjmUkYJi"
 			]
 		}
 	},

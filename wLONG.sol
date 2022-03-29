@@ -56,7 +56,7 @@ contract wLONG is ERC20, Ownable {
         }
         require(!_rset[r], "wLONG: key has already been used");
 
-        bytes32 h = keccak256(abi.encodePacked(minter,amount)); // Хешь сообщения, содержащего число wLONG, и примесь минтера
+        bytes32 h = keccak256(abi.encodePacked(minter,"\x19\x01",amount)); // Хешь сообщения, содержащего число wLONG, и примесь минтера
 
         /** @dev
          * При восстановлении точки публичного ключа (адреса) есть неоднозначность (malleable) в сигнатуре вида +-s mod n,
