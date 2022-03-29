@@ -1,0 +1,94 @@
+# Wrapped LONG Coin (WLONG). Contract address: `0xf7fC9143be8488BEbC3424533920316E627E17D1`
+#### https://www.bscscan.com/address/0xf7fC9143be8488BEbC3424533920316E627E17D1
+
+This Smart-contract of a BEP-20 token obtained by burning a LONG COIN to an address 
+without a private key: `1111111111111111111114oLvT2`. After burning you get a unique coupon 
+in the amount of burned LONG. This coupon is used to top up WLONG at your address 
+in Binance Smart Chain.
+This token has no central authority to issue currency. **TotalSuppy** is created by everyone at their own discretion 
+by burning LONG coin in the original blockchain.
+**WLONG** provides mechanisms to exchange BNB and other tokens via the **uniswap** protocol, as well as 
+to profit from creating liquidity on decentralized exchanges such as https://pancakeswap.finance/
+
+## How to add **WLONG** to your wallet:
+
+**1.** Install a MetaMask wallet that supports tokens (https://metamask.io/download/) 
+   Go through the MetaMask installation steps and get an account with your address  
+   ![](https://longnetwork.github.io/assets/images/wlong1.png)  
+
+**2.** Add Binance Smart Chain network to MetaMask to use BEP-20 tokens:  
+   - Go to https://bscscan.com/ scroll down and click **"Add BSC Network"**. Then click **"Approve"** and **"Switch network"** in the opened wallet  
+    ![](https://longnetwork.github.io/assets/images/wlong2_3_4.png)  
+   - Check that your account is connected to the BSC network (you can always switch between ETH and BNB through the wallet menu)  
+    ![](https://longnetwork.github.io/assets/images/wlong5.png)  
+
+**3.** Add the **WLONG** token to your wallet. To do this, go to the official MetaMask partner https://bit.ly/3NyZupQ and click **"Add to MetaMask"**  
+    ![](https://longnetwork.github.io/assets/images/wlong6_7_8.png)  
+
+*Note. If you are having trouble at any step, try refreshing the page*  
+
+## How to Burn **LONG** and Get **WLONG** (*You will need some BNB to pay for the Gas*):
+
+**1.** Download Pre-build 64-bit binaries of **longcoin-java** wallet:
+    [Windows](https://drive.google.com/uc?export=download&id=1hEJbh_h8cc-b0a9PNjPMoiucILmfjWkV) | 
+    [Ubuntu 20.04](https://drive.google.com/uc?export=download&id=1fW4qE-30swUrB3pWo2Ee5svbmQJEjEgb) | 
+    [Ubuntu 18.04](https://drive.google.com/uc?export=download&id=1P4K6tRB-RtR56zK_Vj_pjse9llFK_l09) 
+   - Run and wait for the synchronization to complete. Then go to the tab **"Coins"**, enter in the field **"Pay To"** 
+     the address to burn coin `1111111111111111111114oLvT2`, in the field **"Amount"** - the required amount of coin, 
+     and click **"Send Payment"**  
+    ![](https://longnetwork.github.io/assets/images/wlong9.png)  
+   - After 6 confirmations of the **LONG** network, you will get a signature to write to the smart contract and get **WLONG** to balance in MetaMask  
+    ![](https://longnetwork.github.io/assets/images/wlong10.png)  
+
+**2.** Go to the data write page of the contract https://www.bscscan.com/token/0xf7fC9143be8488BEbC3424533920316E627E17D1#writeContract  
+   - Connect MetaMask by clicking **"Connect to Web3"**. If the connection is successful, the status should change to **green**.  
+     ![](https://longnetwork.github.io/assets/images/wlong11.png)  
+   - Find method 4. **"mint"** and enter in the amount and signature field the data obtained after burning **LONG**. Then press the **"Write"** button.
+     ![](https://longnetwork.github.io/assets/images/wlong12.png)  
+   - Make sure MetaMask doesn't pop up a **"red warning"** that means you made a mistake when you entered the data!!! 
+     If all is well, press **"Confirm"** and... Voila!  
+     ![](https://longnetwork.github.io/assets/images/wlong13.png)  
+
+*Note. If you are having trouble at any step, try refreshing the page*  
+
+## How to exchange WLONG for other tokens:
+**1.** The first method is directly from the MetaMask wallet:  
+   - Open MetaMask (BSC network) and click the **"Swap"** button. In the fields **"Swap from"**, **"Swap to"** select the desired tokens. 
+     You may need to enter **"WLONG"** in the search line and confirm that you trust the token by clicking **"Continue"**  
+     ![](https://longnetwork.github.io/assets/images/wlong14_15.png)  
+   - Next, select the desired direction of exchange, enter the desired amount and click **"Review Swap"**  
+     ![](https://longnetwork.github.io/assets/images/wlong16_17.png)  
+   - Once again, verify the expected result and click **"Swap"**  
+     ![](https://longnetwork.github.io/assets/images/wlong18_19_20.png)  
+
+*Note. You can choose any tokens to exchange (not just BNB), but Remember that you must always have some BNB on Gas!*  
+
+**2.** The second method is to use DEX exchange (using **PancakeSwap** as an example):
+   - Go to PancakeSwap https://pancakeswap.finance/swap and connect MetaMask (BSC network)  
+   ![](https://longnetwork.github.io/assets/images/wlong21.png)  
+   - You will need to give PancakeSwap access to control the WLONG token once. To do this, 
+     in the **Swap** window click on the token selection arrow, then in the window that opens click on **"Manage Tokens"**, 
+     then on **"Tokens"**, in the field below enter the **WLONG** smart contract address: `0xf7fC9143be8488BEbC3424533920316E627E17D1`
+     and click on **"Import"**. Confirm that you trust the token and click **"Import"** again  
+    ![](https://longnetwork.github.io/assets/images/wlong22_23_24_25.png)  
+   - Press **"Enable WLONG"** and pay Gas once to access your **WLONG** balance.  
+    ![](https://longnetwork.github.io/assets/images/wlong26.png)  
+   - Now let's start the exchange.  
+    ![](https://longnetwork.github.io/assets/images/wlong27_28_29.png)
+  
+**3.** Now that you've mastered **MetaMask** and **WLONG**, move on to the professional level and don't forget to give a **WLONG** like ;)  
+       https://dex.guru/token/0xf7fc9143be8488bebc3424533920316e627e17d1-bsc  
+    ![](https://longnetwork.github.io/assets/images/wlong30.png)  
+
+## How to become an exchange, a market maker and make money by providing liquidity for the exchange:
+
+
+<br/>
+<br/>
+<br/>
+
+
+### Official channels:
+[Official LONG team](https://t.me/longteam) |
+[LONG team News](https://t.me/longteamnews)
+
