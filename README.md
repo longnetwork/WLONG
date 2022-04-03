@@ -1,6 +1,6 @@
 # wrapped LONG Coin (wLONG). Contract address:<br>`0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49`
-#### https://www.bscscan.com/address/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49
-
+<!--#### https://www.bscscan.com/address/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49-->
+#### https://www.bscscan.com/token/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49
 This Smart-contract of a BEP-20 token obtained by burning a LONG COIN to an address 
 without a private key: `1111111111111111111114oLvT2`. After burning you get a unique coupon 
 in the amount of burned LONG. This coupon is used to top up wLONG at your address 
