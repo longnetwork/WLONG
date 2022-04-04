@@ -79,7 +79,7 @@ to profit from creating liquidity on decentralized exchanges such as https://pan
 
 *Note. You can choose any tokens to exchange (not just BNB), but Remember that you must always have some BNB on Gas!*  
 
-## How to become an exchange, a market maker and make money by providing liquidity for the exchange:
+## How to become an exchanger, a market maker and make money by providing liquidity for the exchange:
 
 **1.** Open https://pancakeswap.finance/liquidity and connect MetaMask (the **"Connect"** button in the upper-right corner):  
    - After connecting the wallet, click **"Add Liquidity"**:  
