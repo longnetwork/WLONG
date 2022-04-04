@@ -5,7 +5,7 @@ This Smart-contract of a BEP-20 token obtained by burning a LONG COIN to an addr
 without a private key: `1111111111111111111114oLvT2`. After burning you get a unique coupon 
 in the amount of burned **LONG**. This coupon is used to top up **wLONG** at your address 
 in Binance Smart Chain.
-This token has no central authority to issue currency. **TotalSuppy** is created by everyone at their own discretion 
+This token has no central authority to issue currency. **TotalSupply** is created by everyone at their own discretion 
 by burning LONG coin in the original blockchain.
 **wLONG** provides mechanisms to exchange BNB and other tokens via the **uniswap** protocol, as well as 
 to profit from creating liquidity on decentralized exchanges such as https://pancakeswap.finance/
