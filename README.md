@@ -22,7 +22,7 @@ to profit from creating liquidity on decentralized exchanges such as https://pan
    - Check that your account is connected to the BSC network (you can always switch between ETH and BNB through the wallet menu)  
 
 **3.** Add the **wLONG** token to your wallet. To do this, click on **"Import tokens"** in MetaMask, enter the 
-    **wLONG** contract address `0x8E54a1a1a32dFd86Eb5c6F5334351502E1bff3Ce49` in the **"Token Contract Address"** field and 
+    **wLONG** contract address `0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49` in the **"Token Contract Address"** field and 
     click **"Add Custom Token"**. At the end click **"Import Tokens"**.
     ![](https://longnetwork.github.io/assets/images/mm_wlong6_7_8_9.png)  
 
