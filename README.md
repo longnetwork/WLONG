@@ -74,7 +74,7 @@ to profit from creating liquidity on decentralized exchanges such as https://pan
     ![](https://longnetwork.github.io/assets/images/mm_wlong25_26_27.png)  
   
 **3.** Now that you've mastered **MetaMask** and **wLONG**, move on to the professional level and don't forget to give a **wLONG** like ;)  
-       https://dex.guru/token/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49-bsc  
+       https://charts.bogged.finance/?c=bsc&t=0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49  
     ![](https://longnetwork.github.io/assets/images/mm_wlong28.png)  
 
 *Note. You can choose any tokens to exchange (not just BNB), but Remember that you must always have some BNB on Gas!*  
@@ -95,7 +95,7 @@ to profit from creating liquidity on decentralized exchanges such as https://pan
    ![](https://longnetwork.github.io/assets/images/mm_wlong37_38_39.png)  
 
 **2.** A handy tool for monitoring **wLONG** here:  
-       https://dex.guru/token/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49-bsc  
+       https://explorer.bitquery.io/ru/bsc/token/0x8e54a1a32dfd86eb5c6f5334351502e1bff3ce49  
 
 *Note. You can always withdraw liquidity back and return **wLONG** and **BNB** to your MetaMask wallet*  
 
