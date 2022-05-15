@@ -75,7 +75,7 @@ to profit from creating liquidity on decentralized exchanges such as https://pan
   
 **3.** Now that you've mastered **MetaMask** and **wLONG**, move on to the professional level and don't forget to give a **wLONG** like ;)  
        https://charts.bogged.finance/?c=bsc&t=0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49  
-    ![](https://longnetwork.github.io/assets/images/mm_wlong28.png)  
+    ![](https://longnetwork.github.io/assets/images/DEX-exchanger1.png)  
 
 *Note. You can choose any tokens to exchange (not just BNB), but Remember that you must always have some BNB on Gas!*  
 
